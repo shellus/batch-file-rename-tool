@@ -1,6 +1,6 @@
-# electron-quick-start
+# 批量文件重命名工具
 
-**Clone and run for a quick way to see an Electron in action.**
+**使用electron和angularjs制作的批量修改文件名工具**
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
 
@@ -25,6 +25,6 @@ cd electron-quick-start
 npm install && npm start
 ```
 
-Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
+作者 [博客](https://blog.endaosi.com).
 
-#### License [CC0 (Public Domain)](LICENSE.md)
+#### 商业用途请先联系作者
