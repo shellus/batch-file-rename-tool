@@ -1,7 +1,7 @@
 # 批量文件重命名工具
 
 **使用electron和angularjs制作的批量修改文件名工具**
-
+![image](https://github.com/shellus/batch-file-rename-tool/raw/master/thumbnail/index.png)
 直接拷贝[Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) 修改而成，配置、文档请直接参考Quick Start Guide, 注意记得bower install以安装必要文件
 
 A basic Electron application needs just these files:
