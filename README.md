@@ -2,7 +2,7 @@
 
 **使用electron和angularjs制作的批量修改文件名工具**
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
+直接拷贝[Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) 修改而成，配置、文档请直接参考Quick Start Guide, 注意记得bower install以安装必要文件
 
 A basic Electron application needs just these files:
 
@@ -18,11 +18,11 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/atom/electron-quick-start
+git clone https://github.com/shellus/batch-file-rename-tool.git
 # Go into the repository
-cd electron-quick-start
+cd batch-file-rename-tool
 # Install dependencies and run the app
-npm install && npm start
+bower install && npm install && npm start
 ```
 
 作者 [博客](https://blog.endaosi.com).
