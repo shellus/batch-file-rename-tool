@@ -4,17 +4,17 @@
 ![image](https://github.com/shellus/batch-file-rename-tool/raw/master/thumbnail/index.png)
 直接拷贝[Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) 修改而成，配置、文档请直接参考Quick Start Guide, 注意记得bower install以安装必要文件
 
-A basic Electron application needs just these files:
+一个基于 Electron 的应用程序必须依赖这些文件:
 
-- `index.html` - A web page to render.
-- `main.js` - Starts the app and creates a browser window to render HTML.
-- `package.json` - Points to the app's main file and lists its details and dependencies.
+- `index.html` - 一个html文件作为界面
+- `main.js` - 用来创建窗口(window)和载入html文件
+- `package.json` - 指向应用程序的主文件，并列出了它的信息和依赖。
 
-You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
+您可以详细了解每个组件 [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
 
-## To Use
+## 配置方法
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+你必须事先安装 [Git](https://git-scm.com) 和 [Node.js](https://nodejs.org/en/download/) (附带 [npm](http://npmjs.com)) 和 [bower](http://www.bower.io/)
 
 ```bash
 # Clone this repository
